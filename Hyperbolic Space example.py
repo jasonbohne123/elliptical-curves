@@ -1,3 +1,5 @@
+##Most of this code for outputting different tessellations was taken from https://github.com/cduck/hyperbolic/blob/master/examples/tiles.ipynb
+# and was NOT created by me, Jason Bohne, However did comment so one can change paramters to create different tesssellations
 import math
 import numpy as np
 
