@@ -1,6 +1,6 @@
 # elliptical-curves
 
-This repository includes all the code I created and extended for my Mathematics Computing Lab research project Spring Semester 2020 under Professor Evangelos Kobotis.
+Repository includes all the code we created and extended for the research project I was under in Spring Semester 2020 with Professor Evangelos Kobotis. Also you can find the final report
 
 The following programs were extended:
 
